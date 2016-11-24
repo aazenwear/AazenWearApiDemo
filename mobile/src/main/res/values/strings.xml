@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MobvoiApiDemo</string>
+    <string name="app_name">AazenApiDemo</string>
     <string name="title_1">"数据传输"</string>
     <string name="title_2">"传感器"</string>
     <string name="title_3">"计步数据"</string>
